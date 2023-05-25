@@ -1,8 +1,10 @@
 # Calculator App
 
 This is a single page app to calculate numbers.
-
 It is built using HTML, CSS and JavaScript.
+
+---
+![image](https://github.com/Marcel-FR/Calculator-App/assets/121642717/b6cbc8d0-51cc-425c-9338-13b98cc8d492)
 
 ---
 
